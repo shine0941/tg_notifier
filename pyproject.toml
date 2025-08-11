@@ -1,6 +1,6 @@
 [project]
 name = "tg_notifier"
-version = "0.1.0"
+version = "0.1.1"
 description = "A lightweight Python library for sending instant notifications to Telegram via Bot API. Easily reusable across multiple projects with minimal setup."
 readme = "README.md"
 authors = [
